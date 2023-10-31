@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bba46ea0-7b97-4dfd-9dde-9a5026b52383" name="Changes" comment="" />
+    <list default="true" id="bba46ea0-7b97-4dfd-9dde-9a5026b52383" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,10 +38,23 @@
       <option name="presentableId" value="Default" />
       <updated>1698740169609</updated>
       <workItem from="1698740171083" duration="8000" />
+      <workItem from="1698741075873" duration="195000" />
     </task>
+    <task id="LOCAL-00001" summary="test.html">
+      <created>1698741091081</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698741091081</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="test.html" />
   </component>
 </project>
