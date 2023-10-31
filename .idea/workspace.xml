@@ -43,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698740169609</updated>
       <workItem from="1698740171083" duration="8000" />
-      <workItem from="1698741075873" duration="2626000" />
+      <workItem from="1698741075873" duration="2956000" />
     </task>
     <task id="LOCAL-00001" summary="test.html">
       <created>1698741091081</created>
@@ -108,7 +108,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698744511375</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="facebook_test.png">
+      <created>1698744834347</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1698744834347</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
