@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bba46ea0-7b97-4dfd-9dde-9a5026b52383" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images/facebook_test.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
@@ -30,6 +31,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Application\nuxt-deploy\images" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -39,7 +45,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698740169609</updated>
       <workItem from="1698740171083" duration="8000" />
-      <workItem from="1698741075873" duration="778000" />
+      <workItem from="1698741075873" duration="1379000" />
     </task>
     <task id="LOCAL-00001" summary="test.html">
       <created>1698741091081</created>
@@ -62,7 +68,21 @@
       <option name="project" value="LOCAL" />
       <updated>1698741745692</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="test">
+      <created>1698741879186</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1698741879186</updated>
+    </task>
+    <task id="LOCAL-00005" summary="test">
+      <created>1698741900283</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698741900283</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test.html" />
-    <option name="LAST_COMMIT_MESSAGE" value="test.html" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
 </project>
