@@ -2,6 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bba46ea0-7b97-4dfd-9dde-9a5026b52383" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/200.html" beforeDir="false" afterPath="$PROJECT_DIR$/200.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/_id_.4f047801.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/_id_.ce50a0a6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/builds/latest.json" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/builds/latest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/builds/meta/f7b311d3-db3d-47eb-b85f-8ad881148cf3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/builds/meta/test.json" beforeDir="false" afterPath="$PROJECT_DIR$/_nuxt/builds/meta/test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/default.0a7c8970.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/empty.96e79d9c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/entry.58a0f9aa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/error-404.78ea31d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/error-500.6fbe5c7a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/index.ada6e7b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/index.e0c77de2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/nuxt-link.ca405ae2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_nuxt/vue.f36acd1f.5d8edba5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_payload.json" beforeDir="false" afterPath="$PROJECT_DIR$/_payload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/facebook_test_sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/1/_payload.json" beforeDir="false" afterPath="$PROJECT_DIR$/places/1/_payload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/places/1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/2/_payload.json" beforeDir="false" afterPath="$PROJECT_DIR$/places/2/_payload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/places/2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/3/_payload.json" beforeDir="false" afterPath="$PROJECT_DIR$/places/3/_payload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/places/3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/_payload.json" beforeDir="false" afterPath="$PROJECT_DIR$/places/_payload.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/places/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/places/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/test.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +72,7 @@
       <option name="presentableId" value="Default" />
       <updated>1698740169609</updated>
       <workItem from="1698740171083" duration="8000" />
-      <workItem from="1698741075873" duration="2956000" />
+      <workItem from="1698741075873" duration="3791000" />
     </task>
     <task id="LOCAL-00001" summary="test.html">
       <created>1698741091081</created>
@@ -115,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698744834347</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="facebook_test.png">
+      <created>1698745163149</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1698745163149</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
